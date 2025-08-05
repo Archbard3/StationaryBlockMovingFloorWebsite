@@ -137,6 +137,7 @@ a[href^="tel"] {
   color: #000000 !important; /* Forces black text for phone links */
   text-decoration: none;     /* Removes underline if present */
   font-family: 'Courier New', Courier, monospace; /* Match your existing font */
-  font-size: 26px;           /* Optional: match your .text-box p font size */
+  font-size: 15px;           /* Optional: match your .text-box p font size */
 }
 }
+
